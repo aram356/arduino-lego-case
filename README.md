@@ -44,7 +44,7 @@
 
 ## Tested hardware
 
-* DFRArdino Duemilanove
+* [DFRduino Duemilanove](images/dfrduino_duemilanove.png)
 
 ## Notes
 
